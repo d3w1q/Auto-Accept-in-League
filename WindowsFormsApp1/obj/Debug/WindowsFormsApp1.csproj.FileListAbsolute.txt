@@ -1,0 +1,50 @@
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Wasyle\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Wasyle\Desktop\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Studia\Liga legend akceptowanie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoLAA.resources
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Studia\Auto-Accept in League\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
